@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DepositoValeDoAco/1.0.0": {
+        "runtime": {
+          "DepositoValeDoAco.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DepositoValeDoAco/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

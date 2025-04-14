@@ -1,0 +1,157 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\CCS",
+      "PackagePath": "staticwebassets"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\areia.html",
+      "PackagePath": "staticwebassets\\areia.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\argamassas.html",
+      "PackagePath": "staticwebassets\\argamassas.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\cabos.html",
+      "PackagePath": "staticwebassets\\cabos.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\carreira.html",
+      "PackagePath": "staticwebassets\\carreira.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\cimento.html",
+      "PackagePath": "staticwebassets\\cimento.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\comofios.html",
+      "PackagePath": "staticwebassets\\comofios.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\contato.html",
+      "PackagePath": "staticwebassets\\contato.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\eletrodutos.html",
+      "PackagePath": "staticwebassets\\eletrodutos.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\esmaltes.html",
+      "PackagePath": "staticwebassets\\esmaltes.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\ferramentas.html",
+      "PackagePath": "staticwebassets\\ferramentas.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\home.html",
+      "PackagePath": "staticwebassets\\home.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\img\\cimentos.webp",
+      "PackagePath": "staticwebassets\\img\\cimentos.webp"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\img\\cimentos2.jpg",
+      "PackagePath": "staticwebassets\\img\\cimentos2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\img\\logotipo.PNG",
+      "PackagePath": "staticwebassets\\img\\logotipo.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\img\\logotipo2.png",
+      "PackagePath": "staticwebassets\\img\\logotipo2.png"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\img\\loja_material.jpg",
+      "PackagePath": "staticwebassets\\img\\loja_material.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\interruptores.html",
+      "PackagePath": "staticwebassets\\interruptores.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\janelas.html",
+      "PackagePath": "staticwebassets\\janelas.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\materiaiseletricos.html",
+      "PackagePath": "staticwebassets\\materiaiseletricos.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\materiaishidraulicos.html",
+      "PackagePath": "staticwebassets\\materiaishidraulicos.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\metais.html",
+      "PackagePath": "staticwebassets\\metais.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\nossahistoria.html",
+      "PackagePath": "staticwebassets\\nossahistoria.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\parasuaconstrucao.html",
+      "PackagePath": "staticwebassets\\parasuaconstrucao.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\pisoserevestimentos.html",
+      "PackagePath": "staticwebassets\\pisoserevestimentos.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\portas.html",
+      "PackagePath": "staticwebassets\\portas.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\produtos.html",
+      "PackagePath": "staticwebassets\\produtos.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\telhas.html",
+      "PackagePath": "staticwebassets\\telhas.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\tijolo.html",
+      "PackagePath": "staticwebassets\\tijolo.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\tintas.html",
+      "PackagePath": "staticwebassets\\tintas.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\tomadas.html",
+      "PackagePath": "staticwebassets\\tomadas.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\tubos.html",
+      "PackagePath": "staticwebassets\\tubos.html"
+    },
+    {
+      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\wwwroot\\vernizes.html",
+      "PackagePath": "staticwebassets\\vernizes.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DepositoValeDoAco.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DepositoValeDoAco.props",
+      "PackagePath": "build\\DepositoValeDoAco.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DepositoValeDoAco.props",
+      "PackagePath": "buildMultiTargeting\\DepositoValeDoAco.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DepositoValeDoAco.props",
+      "PackagePath": "buildTransitive\\DepositoValeDoAco.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
