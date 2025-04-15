@@ -137,20 +137,20 @@
       "PackagePath": "staticwebassets\\vernizes.html"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DepositoValeDoAco.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DepositoDoValeDoAco.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DepositoValeDoAco.props",
-      "PackagePath": "build\\DepositoValeDoAco.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DepositoDoValeDoAco.props",
+      "PackagePath": "build\\DepositoDoValeDoAco.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DepositoValeDoAco.props",
-      "PackagePath": "buildMultiTargeting\\DepositoValeDoAco.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DepositoDoValeDoAco.props",
+      "PackagePath": "buildMultiTargeting\\DepositoDoValeDoAco.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DepositoValeDoAco.props",
-      "PackagePath": "buildTransitive\\DepositoValeDoAco.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DepositoDoValeDoAco.props",
+      "PackagePath": "buildTransitive\\DepositoDoValeDoAco.props"
     }
   ],
   "ElementsToRemove": []

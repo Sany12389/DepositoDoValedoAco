@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\DepositoValeDoAco.csproj",
-      "projectName": "DepositoValeDoAco",
-      "projectPath": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\DepositoValeDoAco.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\DepositoDoValeDoAco.csproj",
+      "projectName": "DepositoDoValeDoAco",
+      "projectPath": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\DepositoDoValeDoAco.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\DepositoDoValedoAco\\obj\\",
       "projectStyle": "PackageReference",
